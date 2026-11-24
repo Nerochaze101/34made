@@ -1,0 +1,6 @@
+{
+  "name": "The Overconfident Flex",
+  "description": "An animated 10-second 2D/3D anime comedy skit with dynamic camera movement, squash-and-stretch animation, and an interactive timeline scrubber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
